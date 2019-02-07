@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'Thasadith';
+    src: url('Thasadith-Regular.woff2') format('woff2'),
+    url('Thasadith-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Thasadith';
+    src: url('Thasadith-BoldItalic.woff2') format('woff2'),
+    url('Thasadith-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Thasadith';
+    src: url('Thasadith-Bold.woff2') format('woff2'),
+    url('Thasadith-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Thasadith';
+    src: url('Thasadith-Italic.woff2') format('woff2'),
+    url('Thasadith-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
